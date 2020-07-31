@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pruebas</string>
+    <string name="TelInicio">Teléfono</string>
+    <string name="PassInicio">Contraseña</string>
+    <string name="Inicio">Iniciar Sesión</string>
+    <string name="Reg">Registrar</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
